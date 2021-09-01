@@ -1,0 +1,6 @@
+/* base */
+@import './base/reset.css';
+@import './base/typography.css';
+
+/* utils */
+@import './utils/variables.css';
