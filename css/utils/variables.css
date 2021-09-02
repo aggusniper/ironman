@@ -1,6 +1,7 @@
 :root {
   --color-white: #ffffff;
-  --color-gray: #333333;
+  --color-gray: #a09e9e;
+  --color-red: #ec1923;
   --font-primary: "Bebas Neue", cursive;
   --font-secondary: "Ruda", sans-serif;
 }

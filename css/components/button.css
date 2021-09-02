@@ -1,0 +1,16 @@
+.btn {
+  padding: 0.2em 0.9em;
+  font-family: var(--font-primary);
+  font-size: 1.5rem;
+  border: none;
+}
+
+.btn__more {
+  color: var(--color-white);
+  background-color: var(--color-red);
+  text-transform: uppercase;
+}
+
+.btn__more::after {
+  content: "\2192";
+}

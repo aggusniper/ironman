@@ -1,0 +1,15 @@
+.slider {
+  font-family: var(--font-primary);
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+/* .slider ul li {
+} */
+
+.slider-item {
+  display: inline-block;
+  padding: 0.5em;
+  color: var(--color-gray);
+  border-bottom: 1px solid #4b5563;
+}

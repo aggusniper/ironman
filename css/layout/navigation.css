@@ -1,0 +1,17 @@
+.site-nav {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.site-nav__link {
+  display: block;
+  padding-left: 1em;
+  padding-right: 1em;
+  text-transform: uppercase;
+  color: var(--color-gray);
+  transition: color 300ms;
+}
+
+.site-nav__link:hover {
+  color: var(--color-white);
+}

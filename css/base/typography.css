@@ -19,6 +19,7 @@ h5 {
 }
 
 p {
+  font-family: var(--font-secondary);
   font-size: 1.3rem;
   letter-spacing: 0.02rem;
 }

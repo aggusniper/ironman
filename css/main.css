@@ -1,6 +1,18 @@
 /* base */
-@import './base/reset.css';
-@import './base/typography.css';
+@import "./base/reset.css";
+@import "./base/typography.css";
+
+/* components */
+@import "./components/button.css";
+@import "./components/slider.css";
+
+/* layout */
+@import "./layout/header.css";
+@import "./layout/navigation.css";
+
+/* pages */
+@import "./pages/container.css";
 
 /* utils */
-@import './utils/variables.css';
+@import "./utils/utilities.css";
+@import "./utils/variables.css";

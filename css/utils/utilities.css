@@ -1,0 +1,27 @@
+.is-active {
+  color: var(--color-white);
+}
+
+.ml-1 {
+  margin-left: 0.5rem;
+}
+
+.ml-2 {
+  margin-left: 1.5rem;
+}
+
+.ml-25 {
+  margin-left: 24.5rem;
+}
+
+.mb-2 {
+  margin-bottom: 1.5rem;
+}
+
+.pad-1 {
+  padding: 0.5rem;
+}
+
+.span1 {
+  width: 42.5rem;
+}
