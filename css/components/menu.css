@@ -1,0 +1,27 @@
+.menu {
+  position: absolute;
+  top: 40%;
+  left: 10rem;
+  width: 1.5rem;
+  height: 0.2rem;
+  background-color: var(--color-white);
+}
+
+.menu::before,
+.menu::after {
+  position: absolute;
+  content: "";
+  width: 50%;
+  height: inherit;
+  background-color: var(--color-white);
+}
+
+.menu::before {
+  top: 0.5rem;
+  right: 0;
+}
+
+.menu::after {
+  bottom: 0.5rem;
+  left: 0;
+}
