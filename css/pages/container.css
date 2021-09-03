@@ -7,5 +7,4 @@
   color: var(--color-white);
   background: url(../../assets/background.png);
   background-size: cover;
-  gap: 3.5rem;
 }
